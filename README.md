@@ -31,7 +31,7 @@ A Streamlit-based web application combining AI-powered literary creation and fac
 
 - Python 3.8+
 - OpenAI API key
-- [inswapper_128.onnx](https://github.com/deepinsight/insightface/releases) model file
+- https://drive.google.com/file/d/1krOLgjW2tAPaqV-Bw4YALz0xT5zlb5HF/view  {model file} (Download the model and store it in the working directory and make sure to change the model path in main code)
 
 ## Installation
 
