@@ -37,5 +37,5 @@ A Streamlit-based web application combining AI-powered literary creation and fac
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/ai-suite.git
+git clone https://github.com/AnishSinghYadav/AI-SUITE.git
 cd ai-suite
